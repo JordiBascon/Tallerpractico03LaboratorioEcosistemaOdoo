@@ -1,4 +1,4 @@
-# Taller-pr-ctico-03-Laboratorio-Ecosistema-Odoo
+# Taller practico 03 Laboratorio Ecosistema Odoo
 
 ## Para la realización de esta actividad utilizamos Odoo y Docker.
 Para comenzar creamos un archivo .csv con una pequeña base de datos con clientes, importamos ese registro y comprobamos que todo funcionara correctamente para después crear un producto y venderlo a uno de los clientes creados anteriormente.
