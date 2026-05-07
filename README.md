@@ -6,13 +6,14 @@ Para comenzar creamos un archivo .csv con una pequeña base de datos con cliente
 
 <img width="482" height="101" alt="image" src="https://github.com/user-attachments/assets/22bca49f-94fe-49b4-afef-e8a890eda621" />
 ______________________________________________________________________________________________________________________________
+
 <img width="952" height="53" alt="image" src="https://github.com/user-attachments/assets/0ba0c948-da40-4eef-86fb-b1df25e6d60c" />
 
-Despues modificamos la parte de presupuesto para que aparezca mas presentable.
+Despues modificamos la parte de presupuesto para que aparezca mas presentable entrando en una vista específica (sale.report_saleorder_document.) que renderiza el esqueleto HTML que luego el motor wkhtmltopdf convierte a PDF.
 
 <img width="630" height="369" alt="image" src="https://github.com/user-attachments/assets/87bd74fa-ad65-4a2a-86c9-ea29e3116f19" />
 
-Para finalizar exportamos los registros para poder importarlos a cualquier otro sistema.
+Para finalizar exportamos los registros en formato CSV para poder importarlos a cualquier otro sistema del mundo.
 
 <img width="659" height="888" alt="image" src="https://github.com/user-attachments/assets/02c6e466-1043-41fd-be19-eb4d6b576314" />
 ______________________________________________________________________________________________________________________________
